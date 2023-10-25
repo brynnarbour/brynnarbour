@@ -1,4 +1,4 @@
-## Brynn Arbour - Web Design and Development Student 🌱
+# 🌱 Brynn Arbour - Web Design and Development Student 🌱
 
 ## About Me
 
@@ -12,7 +12,7 @@ I thrive on problem-solving and creative challenges. I believe that technology c
 
 ---
 
-# Skills & Tools
+## Skills & Tools
 
 **Web Development**:
 - Proficient in HTML, CSS, and JavaScript.
