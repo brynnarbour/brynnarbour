@@ -1,7 +1,7 @@
 # 🌱 Brynn Arbour - Web Design and Development Student 🌱
 
 <p align="center">
-  <img src="https://imgur.com/1sIDXDE)](https://imgur.com/a/g0FZFnA" alt="Brynn Arbour Books Logo">
+  <img src="https://imgur.com/a/g0FZFnA" alt="Brynn Arbour Books Logo">
 </p>
 
 ## About Me
