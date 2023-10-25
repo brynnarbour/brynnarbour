@@ -1,5 +1,10 @@
 # 🌱 Brynn Arbour - Web Design and Development Student 🌱
 
+<p align="center">
+  <img src="![git-banner](https://github.com/brynnarbour/brynnarbour/assets/123125725/8c30a194-5f38-4efe-888e-e6d002450666)
+" alt="Cute Banner">
+</p>
+
 ## About Me
 
 Hello, I'm Brynn, a dedicated student at NAIT (Northern Alberta Institute of Technology) with a strong passion for web design and development. I'm on a journey to acquire the skills needed to create outstanding digital experiences.
