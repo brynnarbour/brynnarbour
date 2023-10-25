@@ -1,5 +1,9 @@
 # 🌱 Brynn Arbour - Web Design and Development Student 🌱
 
+<p align="center">
+  <img src="https://imgur.com/1sIDXDE" alt="Brynn Arbour Books Logo">
+</p>
+
 ## About Me
 
 Hello, I'm Brynn, a dedicated student at NAIT (Northern Alberta Institute of Technology) with a strong passion for web design and development. I'm on a journey to acquire the skills needed to create outstanding digital experiences.
