@@ -1,7 +1,7 @@
 # 🌱 Brynn Arbour - Web Design and Development Student 🌱
 
 <p align="center">
-  <img src="https://i.imgur.com/AYDUhFp.png" alt="Brynn Arbour Books Logo">
+  <img src="https://i.imgur.com/h3MmsiT.png" alt="Brynn Arbour Books Logo">
 </p>
 
 ## About Me
@@ -28,10 +28,11 @@ I thrive on problem-solving and creative challenges. I believe that technology c
 **Collaboration**:
 - Enthusiastic about working in teams and open to collaborative projects.
 
-  
+---  
 
 ### Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brynnarbour&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
