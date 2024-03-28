@@ -3,13 +3,12 @@
 
 ## About Me
 
-Hello, I'm Brynn, a dedicated student at NAIT (Northern Alberta Institute of Technology) with a strong passion for web design and development. I'm on a journey to acquire the skills needed to create outstanding digital experiences.
 
-I'm working diligently towards my graduation in April 2024.
+Hello, I'm Brynn, a dedicated web designer and developer deeply passionate about crafting immersive digital experiences that seamlessly blend aesthetics with functionality. With a keen focus on UX/UI design principles, I strive to create websites that not only captivate users visually but also intuitively guide them through seamless interactions.
 
-My goal is to specialize in UX/UI design, where I can blend my technical skills with a creative eye to craft user-friendly and visually appealing digital interfaces.
+My development skills encompass a thorough understanding of front-end technologies and techniques, ensuring that every aspect of the user journey is meticulously crafted. From wireframing to deployment, I am committed to delivering high-quality work that exceeds expectations and drives tangible results. 
 
-I thrive on problem-solving and creative challenges. I believe that technology can empower us to make the world a better place.
+Currently, I'm pursuing my studies at NAIT (Northern Alberta Institute of Technology) with a graduation target set for April 2024. My goal is to specialize in UX/UI design, leveraging my technical skills and creative eye to contribute positively to the digital landscape. 
 
 ---
 
@@ -20,7 +19,8 @@ I thrive on problem-solving and creative challenges. I believe that technology c
 - Working on developing websites that are both functional and aesthetically pleasing.
 
 **Design Tools**:
-- Familiar with Figma, Photoshop and Illustrator.
+- Figma
+- Adobe Creative Cloud
 
 **Collaboration**:
 - Enthusiastic about working in teams and open to collaborative projects.
