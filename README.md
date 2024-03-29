@@ -14,11 +14,15 @@ Currently, I'm pursuing my studies at NAIT (Northern Alberta Institute of Techno
 
 ## Skills & Tools
 
-**Web Development**:
-- Proficient in HTML, CSS, and JavaScript.
-- Working on developing websites that are both functional and aesthetically pleasing.
+- JavaScript
+- PHP
+- React
+- CMS (WordPress, Joomla)
 
-**Design Tools**:
+- HTML/CSS
+- UX/UI Design
+- Tailwind
+- Material UI
 - Figma
 - Adobe Creative Cloud
 
@@ -28,7 +32,14 @@ Currently, I'm pursuing my studies at NAIT (Northern Alberta Institute of Techno
 ---  
 
 ### Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-BDC4A7?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-3C6E71?style=flat)
+![Figma](https://img.shields.io/badge/Figma-8C7284?style=flat)
+![PHP](https://img.shields.io/badge/PHP-CB793A?style=flat)
+![React](https://img.shields.io/badge/React-BDC4A7?style=flat)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-3C6E71?style=flat)
+![Wordpress](https://img.shields.io/badge/Wordpress-8C7284?style=flat)
+
 
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brynnarbour&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
